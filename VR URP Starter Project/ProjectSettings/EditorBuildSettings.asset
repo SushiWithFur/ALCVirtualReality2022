@@ -5,9 +5,12 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/VR Starter Scene.unity
+    guid: 2259e4a0db2b847e1bec4d345c8aa71d
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: d1c3109bdb54ad54c8a2b2838528e640
+    path: Assets/Scenes/Bird.unity
+    guid: f44b5a9da30434bc6bf500bf1cf426ec
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 025b1b6b9628e4a268f39c0ded7992e6, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: ca7463dcffd034d99bc0dcaec039cdf5, type: 2}
